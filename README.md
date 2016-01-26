@@ -18,3 +18,20 @@ To start the program press on "Start Game Engine". Optionally, press on "Record 
 
 Both python 3 and pyserial need to be installed for the communication to work.
 
+
+
+
+### License
+<p  align = "center">
+<p>
+The code is shared under GPL v2
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/License_icon-gpl-2.svg/256px-License_icon-gpl-2.svg.png" width="100" align = "center">
+</p>
+
+<p>
+Every thing else is licensed under Creative Commons Attribution-ShareAlike
+<br>
+<img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width="200" align = "center">
+</p>
+</p>

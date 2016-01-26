@@ -58,6 +58,7 @@ def updateAngles():
 
 	lowerLegR = mathutils.Quaternion((angles[6][0],angles[6][1],angles[6][2],angles[6][3]))
 	correction = mathutils.Quaternion((1.0, 0.0, 0.0), math.radians(90.0))
+	#correction = mathutils.Quaternion((1.0, 0.0, 0.0), math.radians(90.0))
 	lowerLegR_out = correction*lowerLegR
 
 	upperLegL = mathutils.Quaternion((angles[7][0],angles[7][1],angles[7][2],angles[7][3]))
